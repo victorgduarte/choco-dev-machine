@@ -20,3 +20,7 @@ choco install dotnet4.7 -y
 choco install netfx-4.8-devpack -y
 choco install sql-server-management-studio -y
 choco install skype -y
+choco install javaruntime -y
+choco install kafka-tool -y
+choco install vscode -y
+
