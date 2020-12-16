@@ -1,2 +1,2 @@
-PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File ""C:\Users\victo\Desktop\myscript.ps1""' -Verb RunAs}";
+PowerShell  -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -noexit -File ""C:\Git\choco-dev-machine\myscript.ps1""' -Verb RunAs}";
 exit

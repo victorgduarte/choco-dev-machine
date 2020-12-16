@@ -1,3 +1,7 @@
+"Start:"
+Get-Date
+"		"
+"		"
 choco install spotify --version=1.1.46.916 -Y
 choco install putty -y
 choco install filezilla -y
@@ -21,6 +25,20 @@ choco install netfx-4.8-devpack -y
 choco install sql-server-management-studio -y
 choco install skype -y
 choco install javaruntime -y
+choco install jdk8 -y
 choco install kafka-tool -y
 choco install vscode -y
+choco install slack -y
+choco install 7zip.install -y
+choco install notepadplusplus -y
+choco install git.install -y
+choco install docker-desktop -y
+choco install discord -y
+choco install adobereader -y
+choco install bluejeansapp -y
+"		"
+"		"
+"Finish:"
+Get-Date
+
 
