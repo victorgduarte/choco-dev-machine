@@ -36,6 +36,7 @@ choco install docker-desktop -y
 choco install discord -y
 choco install adobereader -y
 choco install bluejeansapp -y
+choco install mysql.workbench -y
 "		"
 "		"
 "Finish:"
