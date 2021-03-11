@@ -37,6 +37,7 @@ choco install discord -y
 choco install adobereader -y
 choco install bluejeansapp -y
 choco install mysql.workbench -y
+choco install obs-studio -y
 "		"
 "		"
 "Finish:"
