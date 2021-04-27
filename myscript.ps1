@@ -38,6 +38,7 @@ choco install adobereader -y
 choco install bluejeansapp -y
 choco install mysql.workbench -y
 choco install obs-studio -y
+choco install offset-explorer -y
 "		"
 "		"
 "Finish:"
